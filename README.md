@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Pablo Merissi da Cruz!👋
 
-- 🔭 Eu estou Em busca da minha Primeira oportunidade de Trabalho.
+- 🔭 Atualmente eu sou Jovem Aprendiz no Itaú ;)
 - 🌱 Eu estou estudando Typescript e React
 - 📫 Para entrar em contato comigo, me mande um email em <b> pablo.merissi@hotmail.com </b> 
 
