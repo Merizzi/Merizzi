@@ -1,8 +1,13 @@
 ### Olá!! Eu sou o Pablo Merissi da Cruz!👋
 
-- 🔭 Atualmente eu sou Jovem Aprendiz no Itaú ;)
-- 🌱 Eu estou estudando Typescript e React
-- 📫 Para entrar em contato comigo, me mande um email em <b> pablo.merissi@hotmail.com </b> 
+- 🔭 Atualmente eu sou Analista Engenheiro no Itaú ;)
+- 🌱 Eu estou estudando Python e  Git commands.
+- 📫 Para entrar em contato comigo, me mande um email em <b> pablo.merissi@hotmail.com </b>
+
+### Hola!! Yo soy Pablo Merissi da Cruz!👋
+- 🔭 Hoy yo soy Data Engineer Analyst Jr en Itaú ;)
+- 🌱 Tengo estudiado Python y Git commands.
+- 📫 Para hablar conmigo: <b> pablo.merissi@hotmail.com </b> 
 
  <div>
   <a href="https://github.com/Merizzi">
