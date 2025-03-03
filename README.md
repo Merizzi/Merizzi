@@ -6,7 +6,7 @@
 
 ### Hola!! Yo soy Pablo Merissi da Cruz!👋
 - 🔭 Hoy yo soy Data Engineer Analyst Jr en Itaú ;)
-- 🌱 Tengo estudiado Python y Git commands.
+- 🌱 Estoy estudiando Python y Git commands.
 - 📫 Para hablar conmigo: <b> pablo.merissi@hotmail.com </b> 
 
  <div>
