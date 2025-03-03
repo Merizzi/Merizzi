@@ -30,4 +30,4 @@
   <a href="https://youtube.com/channel/UC6Wacm6fd_HQnUmpqQ8E2OQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/pmerizzi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pablo.merissi@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-merissi-da-cruz-333808162" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> </a>
+  <a href="https://www.linkedin.com/in/pablo-merissi-da-cruz-333808162" target="_blank"> <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg](https://img.shields.io/badge/%40-Linkedin-blue)"> </a>
